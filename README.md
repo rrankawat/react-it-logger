@@ -6,7 +6,8 @@
 
 ## Dependencies
 
-- npm i materialize-css
+- Materialize CSS: npm i materialize-css
+- Moment: npm i moment react-moment
 
 ## devDependencies
 
