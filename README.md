@@ -6,6 +6,8 @@
 
 ## Dependencies
 
+- npm i materialize-css
+
 ## devDependencies
 
 - JSON-Server: npm i -D json-server
