@@ -8,6 +8,7 @@
 
 - Materialize CSS: npm i materialize-css
 - Moment: npm i moment react-moment
+- Redux: redux react-redux redux-thunk redux-devtools-extension
 
 ## devDependencies
 
