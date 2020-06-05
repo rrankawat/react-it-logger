@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Log 1",
-      "attention": false,
+      "id": 1,
+      "message": "Log 101",
       "tech": "John Doe",
-      "date": "2020-06-05T16:44:05.385Z",
-      "id": 1
+      "attention": true,
+      "date": "2020-06-05T17:25:12.565Z"
     },
     {
       "message": "Log 2",
@@ -22,11 +22,11 @@
       "id": 3
     },
     {
-      "message": "Log 4",
-      "attention": true,
+      "id": 4,
+      "message": "Log 401",
       "tech": "John Doe",
-      "date": "2020-06-05T16:44:38.992Z",
-      "id": 4
+      "attention": false,
+      "date": "2020-06-05T17:25:25.742Z"
     }
   ],
   "techs": [
